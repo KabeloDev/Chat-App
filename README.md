@@ -22,35 +22,24 @@ Learning how to use SignalR to implement instant messaging at a basic level in m
 
 <p align="center">
 Chat demonstration: <br/>
-<img src="https://i.imgur.com/Mws5MpR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mws5MpR.png" height="80%" width="80%" />
 <br />
 <br />
 ChatHub class:  <br/>
-<img src="https://i.imgur.com/x9EOdfE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x9EOdfE.png" height="80%" width="80%" />
 <br />
 <br />
 JavaScript file: <br/>
-<img src="https://i.imgur.com/78kZ6Ku.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/78kZ6Ku.png" height="80%" width="80%" />
 <br />
 <br />
 Program file:  <br/>
-<img src="https://i.imgur.com/moFwE5H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/moFwE5H.png" height="80%" width="80%" />
 <br />
 <br />
 View:  <br/>
-<img src="https://i.imgur.com/o5KL37Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o5KL37Q.png" height="80%" width="80%" />
 <br />
 <br />
 
 
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
